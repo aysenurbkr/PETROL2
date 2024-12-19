@@ -1,0 +1,11 @@
+C:\Users\Ahmet ŞEN\Desktop\ödev\Petrol otomasyonu\Petrol otomasyonu\obj\Debug\Petrol otomasyonu.csproj.AssemblyReference.cache
+C:\Users\Ahmet ŞEN\Desktop\ödev\Petrol otomasyonu\Petrol otomasyonu\obj\Debug\Petrol_otomasyonu.Form1.resources
+C:\Users\Ahmet ŞEN\Desktop\ödev\Petrol otomasyonu\Petrol otomasyonu\obj\Debug\Petrol_otomasyonu.Properties.Resources.resources
+C:\Users\Ahmet ŞEN\Desktop\ödev\Petrol otomasyonu\Petrol otomasyonu\obj\Debug\Petrol otomasyonu.csproj.GenerateResource.cache
+C:\Users\Ahmet ŞEN\Desktop\ödev\Petrol otomasyonu\Petrol otomasyonu\obj\Debug\Petrol otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet ŞEN\Desktop\ödev\Petrol otomasyonu\Petrol otomasyonu\bin\Debug\Petrol otomasyonu.exe.config
+C:\Users\Ahmet ŞEN\Desktop\ödev\Petrol otomasyonu\Petrol otomasyonu\bin\Debug\Petrol otomasyonu.exe
+C:\Users\Ahmet ŞEN\Desktop\ödev\Petrol otomasyonu\Petrol otomasyonu\bin\Debug\Petrol otomasyonu.pdb
+C:\Users\Ahmet ŞEN\Desktop\ödev\Petrol otomasyonu\Petrol otomasyonu\obj\Debug\Petrol otomasyonu.exe
+C:\Users\Ahmet ŞEN\Desktop\ödev\Petrol otomasyonu\Petrol otomasyonu\obj\Debug\Petrol otomasyonu.pdb
+C:\Users\Ahmet ŞEN\Desktop\ödev\Petrol otomasyonu\Petrol otomasyonu\obj\Debug\PetrolOtomasyon.MenuForm.resources
